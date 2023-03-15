@@ -70,7 +70,7 @@ This file provides for the index of all C programs taught in class with the date
 
 ## 7. Timeline - 15th Mar
 
-| Sl No. | Topic                                   | Program                          | Status |
-| ------ | --------------------------------------- | -------------------------------- | ------ |
-| 1      | WAP to use Prefix and Postfix Operators | [post_pre.c](./Mar15/post_pre.c) |        |
-| 2      |
+| Sl No. | Topic                                   | Program                            | Status |
+| ------ | --------------------------------------- | ---------------------------------- | ------ |
+| 1      | WAP to use Prefix and Postfix Operators | [post_pre.c](./Mar15/post_pre.c)   |        |
+| 2      | WAP ro test assignment operators        | [shorthand.c](./Mar15/shorthand.c) |        |
