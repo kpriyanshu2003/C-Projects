@@ -9,8 +9,8 @@ int main()
 	c -= b;
 	d %= a;
 	printf("The value of a : %d\n", a);
-	printf("The value of a : %d\n", b);
-	printf("The value of a : %d\n", c);
-	printf("The value of a : %d\n", d);
+	printf("The value of b : %d\n", b);
+	printf("The value of c : %d\n", c);
+	printf("The value of d : %d\n", d);
 	return 0;
 }
