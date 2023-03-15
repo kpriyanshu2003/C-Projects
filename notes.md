@@ -28,3 +28,5 @@ int result = (a,b);
 ```
 
 Here, the result variable stores the value in b, meaning the value which is to the right most is assigned.
+
+The Use of Comma Operator :- When we use comma operator, all the expressions within the bracket (bracket not necessary) will be executed. But, the rightmost expression's value will be stored in the variable.
