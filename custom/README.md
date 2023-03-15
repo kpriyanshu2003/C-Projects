@@ -70,9 +70,9 @@ This file provides for the index of all C programs taught in class with the date
 
 ## 7. Timeline - 15th Mar
 
-| Sl No. | Topic                                   | Program                            | Status |
-| ------ | --------------------------------------- | ---------------------------------- | ------ |
-| 1      | WAP to use Prefix and Postfix Operators | [post_pre.c](./Mar15/post_pre.c)   |        |
-| 2      | WAP to test assignment operators        | [shorthand.c](./Mar15/shorthand.c) |        |
-| 3      | WAP to use conditional operators        | [ternary.c](./Mar15/ternary.c)     |        |
-| 4      | WAP to use comma operators              | [comma.c](./Mar15/comma.c)         |        |
+| Sl No. | Topic                                   | Program                            |
+| ------ | --------------------------------------- | ---------------------------------- |
+| 1      | WAP to use Prefix and Postfix Operators | [post_pre.c](./Mar15/post_pre.c)   |
+| 2      | WAP to test assignment operators        | [shorthand.c](./Mar15/shorthand.c) |
+| 3      | WAP to use conditional operators        | [ternary.c](./Mar15/ternary.c)     |
+| 4      | WAP to use comma operators              | [comma.c](./Mar15/comma.c)         |
