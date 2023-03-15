@@ -18,6 +18,13 @@
 8. %d -> Convert entered HEX into DEC
 9. %o -> Convert entered DEC to OCT
 10. Functions -
-   gets(string) -> Get entire string
-   getchar(string) -> Get 1st character
-   
+    gets(string) -> Get entire string
+    getchar(string) -> Get 1st character
+11. Comma can be used operator.
+
+```
+int a = 10, b = 20;
+int result = (a,b);
+```
+
+Here, the result variable stores the value in b, meaning the value which is to the right most is assigned.
