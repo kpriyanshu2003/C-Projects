@@ -74,4 +74,5 @@ This file provides for the index of all C programs taught in class with the date
 | ------ | --------------------------------------- | ---------------------------------- | ------ |
 | 1      | WAP to use Prefix and Postfix Operators | [post_pre.c](./Mar15/post_pre.c)   |        |
 | 2      | WAP to test assignment operators        | [shorthand.c](./Mar15/shorthand.c) |        |
-| 2      | WAP to use conditional operators        | [ternary.c](./Mar15/ternary.c)     |        |
+| 3      | WAP to use conditional operators        | [ternary.c](./Mar15/ternary.c)     |        |
+| 4      | WAP to use comma operators              | [comma.c](./Mar15/comma.c)         |        |
