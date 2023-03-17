@@ -79,6 +79,7 @@ This file provides for the index of all C programs taught in class with the date
 
 ## 8. Timeline - 17th Mar
 
-| Sl No. | Topic                                  | Program                                    |
-| ------ | -------------------------------------- | ------------------------------------------ |
-| 1      | WAP to show associativity of operators | [associativity.c](./Mar17/associativity.c) |
+| Sl No. | Topic                                         | Program                                    |
+| ------ | --------------------------------------------- | ------------------------------------------ |
+| 1      | WAP to show associativity of operators        | [associativity.c](./Mar17/associativity.c) |
+| 2      | WAP to demonstrate the use of type conversion | [type_conv.c](./Mar17/type_conv.c)         |
