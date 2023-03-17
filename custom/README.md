@@ -79,5 +79,6 @@ This file provides for the index of all C programs taught in class with the date
 
 ## 8. Timeline - 17th Mar
 
-| Sl No. | Topic | Program |
-| ------ | ----- | ------- |
+| Sl No. | Topic                                  | Program                                    |
+| ------ | -------------------------------------- | ------------------------------------------ |
+| 1      | WAP to show associativity of operators | [associativity.c](./Mar17/associativity.c) |
