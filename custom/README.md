@@ -79,10 +79,11 @@ This file provides for the index of all C programs taught in class with the date
 
 ## 8. Timeline - 17th Mar
 
-| Sl No. | Topic                                                               | Program                                    |
-| ------ | ------------------------------------------------------------------- | ------------------------------------------ |
-| 1      | WAP to show associativity of operators                              | [associativity.c](./Mar17/associativity.c) |
-| 2      | WAP to demonstrate the use of type conversion                       | [type_conv.c](./Mar17/type_conv.c)         |
-| 3      | WAP to convert given seconds to equivalent hour, minute and seconds | [time_conv.c](./Mar17/time_conv.c)         |
-| 4      | WAP to add two given time                                           | [time_add.c](./Mar17/time_add.c)           |
-| 5      | WAP to print the largest among numbers                              | [max_3.c](./Mar17/max_3.c)                 |
+| Sl No. | Topic                                                                        | Program                                    |
+| ------ | ---------------------------------------------------------------------------- | ------------------------------------------ |
+| 1      | WAP to show associativity of operators                                       | [associativity.c](./Mar17/associativity.c) |
+| 2      | WAP to demonstrate the use of type conversion                                | [type_conv.c](./Mar17/type_conv.c)         |
+| 3      | WAP to convert given seconds to equivalent hour, minute and seconds          | [time_conv.c](./Mar17/time_conv.c)         |
+| 4      | WAP to add two given time                                                    | [time_add.c](./Mar17/time_add.c)           |
+| 5      | WAP to print the largest among numbers                                       | [max_3.c](./Mar17/max_3.c)                 |
+| 6      | WAP to check if a number given by the user is 0 (zero), positive or negative | [num_chk.c](./Mar17/num_chk.c)             |
