@@ -16,6 +16,7 @@ int main()
 	printf("The value of a is %d\n", a);
 
 	a = b + c / ((d + e) * f);
+	printf("The value of a is %d\n", a);
 
 	return 0;
 }
