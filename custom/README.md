@@ -76,3 +76,8 @@ This file provides for the index of all C programs taught in class with the date
 | 2      | WAP to test assignment operators        | [shorthand.c](./Mar15/shorthand.c) |
 | 3      | WAP to use conditional operators        | [ternary.c](./Mar15/ternary.c)     |
 | 4      | WAP to use comma operators              | [comma.c](./Mar15/comma.c)         |
+
+## 8. Timeline - 17th Mar
+
+| Sl No. | Topic | Program |
+| ------ | ----- | ------- |
