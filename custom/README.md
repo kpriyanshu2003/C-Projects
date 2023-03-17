@@ -85,3 +85,4 @@ This file provides for the index of all C programs taught in class with the date
 | 2      | WAP to demonstrate the use of type conversion                       | [type_conv.c](./Mar17/type_conv.c)         |
 | 3      | WAP to convert given seconds to equivalent hour, minute and seconds | [time_conv.c](./Mar17/time_conv.c)         |
 | 4      | WAP to add two given time                                           | [time_add.c](./Mar17/time_add.c)           |
+| 5      | WAP to print the largest among numbers                              | [max_3.c](./Mar17/max_3.c)                 |
