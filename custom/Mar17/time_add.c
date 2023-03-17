@@ -33,4 +33,5 @@ int main()
 	if (day != 0)
 		printf("%d day ", day);
 	printf("%d:%d:%d\n", h, m, s);
+	return 0;
 }

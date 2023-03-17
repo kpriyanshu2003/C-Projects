@@ -87,4 +87,5 @@ This file provides for the index of all C programs taught in class with the date
 | 4      | WAP to add two given time                                                    | [time_add.c](./Mar17/time_add.c)           |
 | 5      | WAP to print the largest among numbers                                       | [max_3.c](./Mar17/max_3.c)                 |
 | 6      | WAP to check if a number given by the user is 0 (zero), positive or negative | [num_chk.c](./Mar17/num_chk.c)             |
-| 7      | WAP to print the largest among numbers using nested IF                       | [max_3_n.c](./Mar17/max_3_n.c)             |
+| 7      | WAP to check if a number is odd or even                                      | [odd_even.c](./Mar17/odd_even.c)           |
+| 8      | WAP to print the largest among numbers using nested IF                       | [max_3_n.c](./Mar17/max_3_n.c)             |
