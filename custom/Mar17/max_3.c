@@ -1,4 +1,4 @@
-// WAP to print largest number among thre e numbers
+// WAP to print largest number among three numbers
 
 #include <stdio.h>
 int main()
