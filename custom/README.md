@@ -92,5 +92,6 @@ This file provides for the index of all C programs taught in class with the date
 
 ## 9. Timeline - 22nd Mar
 
-| Sl No. | Topic | Program |
-| ------ | ----- | ------- |
+| Sl No. | Topic                                                                                                                                                 | Program                                |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 1.     | WAP to read an alphabet from the user and convert it into upppercase if the entered alphabet is in lowercase; otherwise disply an appropriate message | [upper2lower.c](./Mar22/upper2lower.c) |
