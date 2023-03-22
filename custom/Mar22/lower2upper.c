@@ -7,7 +7,7 @@ int main()
     scanf("%c", &ch);
     if (ch >= 'a' && ch <= 'z')
     {
-        ch = (ch - 32);
+        ch -= 32;
         printf("The character in uppecase : %c", ch);
     }
     else
