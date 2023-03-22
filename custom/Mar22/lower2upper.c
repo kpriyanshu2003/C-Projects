@@ -5,12 +5,12 @@ int main()
     char ch;
     printf("Enter an alphabet : ");
     scanf("%c", &ch);
-    if (ch >= 'A' && ch <= 'Z')
+    if (ch >= 'a' && ch <= 'z')
     {
-        ch = (ch + 32);
-        printf("The character is in Uppercase. And converted into lowercase is : %c", ch);
+        ch = (ch - 32);
+        printf("The character in uppecase : %c", ch);
     }
     else
-        printf("The character is already in lowercase.");
+        printf("The character is already in uppercase.");
     return 0;
 }
