@@ -89,3 +89,8 @@ This file provides for the index of all C programs taught in class with the date
 | 6      | WAP to check if a number given by the user is 0 (zero), positive or negative | [num_chk.c](./Mar17/num_chk.c)             |
 | 7      | WAP to check if a number is odd or even                                      | [odd_even.c](./Mar17/odd_even.c)           |
 | 8      | WAP to print the largest among numbers using nested IF                       | [max_3_n.c](./Mar17/max_3_n.c)             |
+
+## 9. Timeline - 22nd Mar
+
+| Sl No. | Topic | Program |
+| ------ | ----- | ------- |
