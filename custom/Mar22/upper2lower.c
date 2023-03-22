@@ -5,9 +5,9 @@ int main()
     char ch;
     printf("Enter an alphabet : ");
     scanf("%c", &ch);
-    if (ch >= (int)'A' && ch <= (int)'Z')
+    if (ch >= 'A' && ch <= 'Z')
     {
-        ch = (char)((int)'A' + 32);
+        ch = (ch + 32);
         printf("The character is in Uppercase. And converted into lowercase is : %c", ch);
     }
     else
