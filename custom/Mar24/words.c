@@ -11,47 +11,46 @@ int main()
 		s = s * 10 + d;
 		num /= 10;
 	}
-	num = s;
-	while (num != 0)
+	while (s != 0)
 	{
-		d = num % 10;
+		d = s % 10;
 		switch (d)
 		{
 		case 0:
-			printf("One");
+			printf("Zero ");
 			break;
 		case 1:
-			printf("One");
+			printf("One ");
 			break;
 		case 2:
-			printf("Two");
+			printf("Two ");
 			break;
 		case 3:
-			printf("Three");
+			printf("Three ");
 			break;
 		case 4:
-			printf("Four");
+			printf("Four ");
 			break;
 		case 5:
-			printf("Five");
+			printf("Five ");
 			break;
 		case 6:
-			printf("Six");
+			printf("Six ");
 			break;
 		case 7:
-			printf("Seven");
+			printf("Seven ");
 			break;
 		case 8:
-			printf("Eight");
+			printf("Eight ");
 			break;
 		case 9:
-			printf("Nine");
+			printf("Nine ");
 			break;
 		default:
-			printf("Invalid");
+			printf("Invalid ");
 			break;
 		}
-		num /= 10;
+		s /= 10;
 	}
 	return 0;
 }
