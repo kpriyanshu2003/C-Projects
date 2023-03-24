@@ -105,3 +105,4 @@ This file provides for the index of all C programs taught in class with the date
 | Sl No. | Topic                                             | Program                              |
 | ------ | ------------------------------------------------- | ------------------------------------ |
 | 1.     | WAP using switch case to create KIIT grade system | [KIIT_grade.c](./Mar24/KIIT_grade.c) |
+| 2.     | WAP using while to print numbers 1 to 5           | [1to5.c](./Mar24/1to5.c)             |
