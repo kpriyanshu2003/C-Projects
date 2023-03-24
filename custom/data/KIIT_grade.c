@@ -9,30 +9,37 @@
 */
 
 #include <stdio.h>
-int main(){
+int main()
+{
 	int mks;
 	printf("Enter marks : ");
 	scanf("%d", &mks);
-	if( mks >= 90 && mks <= 100)
-	printf("Grade : O");
-	else {
-		if(mks >= 80 && mks <=89)
-		printf("Grade : E");
-		else {
-			if(mks >= 70 && mks <= 79)
-			printf("Grade : A");
-			else {
-				if(mks >= 60 && mks <=69)
-				printf("Grade : B");
-				else {
-					if(mks >=50 && mks <=59)
-					printf("Grade : C");
-					else {
-						if(mks >=40 && mks <=49)
-						printf("Grade : D");
-						else {
-							if(mks <40)
-							printf("Grade : F");
+	if (mks >= 90 && mks <= 100)
+		printf("Grade : O");
+	else
+	{
+		if (mks >= 80 && mks <= 89)
+			printf("Grade : E");
+		else
+		{
+			if (mks >= 70 && mks <= 79)
+				printf("Grade : A");
+			else
+			{
+				if (mks >= 60 && mks <= 69)
+					printf("Grade : B");
+				else
+				{
+					if (mks >= 50 && mks <= 59)
+						printf("Grade : C");
+					else
+					{
+						if (mks >= 40 && mks <= 49)
+							printf("Grade : D");
+						else
+						{
+							if (mks < 40)
+								printf("Grade : F");
 						}
 					}
 				}
