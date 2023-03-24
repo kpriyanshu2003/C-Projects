@@ -99,3 +99,9 @@ This file provides for the index of all C programs taught in class with the date
 | 3.     | WAP to determine whether a year entered through the keyboard is leap year or not                                                                                                                                    | [leap_year.c](./Mar22/leap_year.c)             |
 | 4.     | WAP using if else to create KIIT grade system<br> 90 - 100 : 'O' grade<br> 80 - 89 : 'E' grade<br>70 - 79 : 'A' grade<br>60 - 69 : 'B' grade<br>50 - 59 : 'C' grade<br>40 - 49 : 'D' grade<br> below 40 : 'F' grade | [KIIT_grade.c](./Mar22/KIIT_grade.c)           |
 | 5.     | WAP to find the roots of a quadratic equation ax<sup>2</sup> + bx + c = 0 using if else statement                                                                                                                   | [quadratic.c](./Mar22/quadratic.c)             |
+
+## 10. Timeline - 24th Mar
+
+| Sl No. | Topic                                             | Program                              |
+| ------ | ------------------------------------------------- | ------------------------------------ |
+| 1.     | WAP using switch case to create KIIT grade system | [KIIT_grade.c](./Mar24/KIIT_grade.c) |
