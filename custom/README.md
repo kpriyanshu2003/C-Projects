@@ -108,3 +108,4 @@ This file provides for the index of all C programs taught in class with the date
 | 2.     | WAP using while to print numbers 1 to 5                         | [1to5.c](./Mar24/1to5.c)             |
 | 3.     | WAP using while loop to print multiplication table              | [mul_table.c](./Mar24/mul_table.c)   |
 | 4.     | WAP using while loop to find even numbers between a given range | [even_range.c](./Mar24/even_range.c) |
+| 5.     | WAP using while loop to find sum of digits of a numebr          | [sumOdigit.c](./Mar24/sumOdigit.c)   |
