@@ -102,8 +102,9 @@ This file provides for the index of all C programs taught in class with the date
 
 ## 10. Timeline - 24th Mar
 
-| Sl No. | Topic                                              | Program                              |
-| ------ | -------------------------------------------------- | ------------------------------------ |
-| 1.     | WAP using switch case to create KIIT grade system  | [KIIT_grade.c](./Mar24/KIIT_grade.c) |
-| 2.     | WAP using while to print numbers 1 to 5            | [1to5.c](./Mar24/1to5.c)             |
-| 3.     | WAP using while loop to print multiplication table | [mul_table.c](./Mar24/mul_table.c)   |
+| Sl No. | Topic                                                           | Program                              |
+| ------ | --------------------------------------------------------------- | ------------------------------------ |
+| 1.     | WAP using switch case to create KIIT grade system               | [KIIT_grade.c](./Mar24/KIIT_grade.c) |
+| 2.     | WAP using while to print numbers 1 to 5                         | [1to5.c](./Mar24/1to5.c)             |
+| 3.     | WAP using while loop to print multiplication table              | [mul_table.c](./Mar24/mul_table.c)   |
+| 4.     | WAP using while loop to find even numbers between a given range | [even_range.c](./Mar24/even_range.c) |
