@@ -16,9 +16,6 @@ int main()
 		d = s % 10;
 		switch (d)
 		{
-		case 0:
-			printf("Zero ");
-			break;
 		case 1:
 			printf("One ");
 			break;
