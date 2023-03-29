@@ -123,3 +123,4 @@ This file provides for the index of all C programs taught in class with the date
 | 5.     | WAP to check whether a number is prime or not         | [prime.c](./Mar29/prime.c)         |
 | 6.     | WAP to find the GCD/ HCF of two numbers               | [gcd.c](./Mar29/gcd.c)             |
 | 7.     | WAP to print fibonacci series up to n number of terms | [fibonacci.c](./Mar29/fibonacci.c) |
+| 8.     | WAP to add numbers until the user prints 0 (zero)     | [untilZero.c](./Mar29/untilZero.c) |
