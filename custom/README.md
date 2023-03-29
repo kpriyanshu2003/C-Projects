@@ -119,3 +119,4 @@ This file provides for the index of all C programs taught in class with the date
 | 1.     | WAP to print numbers from 1 to 10 using for loop   | [1to10.c](./Mar29/1to10.c)         |
 | 2.     | WA to find the sum of digits for an entered number | [sumOdigit.c](./Mar29/sumOdigit.c) |
 | 3.     | WAP to print all odd numbers in a given range      | [range_odd.c](./Mar29/range_odd.c) |
+| 4.     | WAP to find factors a positive integer             | [factors.c](./Mar29/factors.c)     |
