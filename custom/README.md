@@ -114,10 +114,11 @@ This file provides for the index of all C programs taught in class with the date
 
 ## 11. Timeline - 29th Mar
 
-| Sl No. | Topic                                              | Program                            |
-| ------ | -------------------------------------------------- | ---------------------------------- |
-| 1.     | WAP to print numbers from 1 to 10 using for loop   | [1to10.c](./Mar29/1to10.c)         |
-| 2.     | WA to find the sum of digits for an entered number | [sumOdigit.c](./Mar29/sumOdigit.c) |
-| 3.     | WAP to print all odd numbers in a given range      | [range_odd.c](./Mar29/range_odd.c) |
-| 4.     | WAP to find factors a positive integer             | [factors.c](./Mar29/factors.c)     |
-| 5.     | WAP to cheeck whether a number is prime or not     | [prime.c](./Mar29/prime.c)         |
+| Sl No. | Topic                                               | Program                            |
+| ------ | --------------------------------------------------- | ---------------------------------- |
+| 1.     | WAP to print numbers from 1 to 10 using for loop    | [1to10.c](./Mar29/1to10.c)         |
+| 2.     | WAP to find the sum of digits for an entered number | [sumOdigit.c](./Mar29/sumOdigit.c) |
+| 3.     | WAP to print all odd numbers in a given range       | [range_odd.c](./Mar29/range_odd.c) |
+| 4.     | WAP to find factors a positive integer              | [factors.c](./Mar29/factors.c)     |
+| 5.     | WAP to cheeck whether a number is prime or not      | [prime.c](./Mar29/prime.c)         |
+| 6.     | WAP to find the GCD/ HCF of two numbers             | [gcd.c](./Mar29/gcd.c)             |
