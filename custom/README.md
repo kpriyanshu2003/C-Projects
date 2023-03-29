@@ -114,6 +114,7 @@ This file provides for the index of all C programs taught in class with the date
 
 ## 11. Timeline - 29th Mar
 
-| Sl No. | Topic                                            | Program                    |
-| ------ | ------------------------------------------------ | -------------------------- |
-| 1.     | WAP to print numbers from 1 to 10 using for loop | [1to10.c](./Mar29/1to10.c) |
+| Sl No. | Topic                                              | Program                            |
+| ------ | -------------------------------------------------- | ---------------------------------- |
+| 1.     | WAP to print numbers from 1 to 10 using for loop   | [1to10.c](./Mar29/1to10.c)         |
+| 2.     | WA to find the sum of digits for an entered number | [sumOdigit.c](./Mar29/sumOdigit.c) |
