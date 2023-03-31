@@ -134,12 +134,12 @@ This file provides for the index of all C programs taught in class with the date
 | 3.     | WAP to show the use of `continue` statement       | [continue.c](./Mar31/continue.c)   |
 | 4.     | WAP using do while loop to print numbers 10 to 20 | [10to20.c](./Mar31/10to20.c)       |
 | 5.     | ![image](./images/pattern1.png)                   | [pattern1.c](./Mar31/pattern1.c)   |
-| 5.     | ![image](./images/pattern2.png)                   | [pattern2.c](./Mar31/pattern2.c)   |
-| 5.     | ![image](./images/pattern3.png)                   | [pattern3.c](./Mar31/pattern3.c)   |
-| 5.     | ![image](./images/pattern4.png)                   | [pattern4.c](./Mar31/pattern4.c)   |
-| 5.     | ![image](./images/pattern5.png)                   | [pattern5.c](./Mar31/pattern5.c)   |
-| 5.     | ![image](./images/pattern6.png)                   | [pattern6.c](./Mar31/pattern6.c)   |
-| 5.     | ![image](./images/pattern7.png)                   | [pattern7.c](./Mar31/pattern7.c)   |
-| 5.     | ![image](./images/pattern8.png)                   | [pattern8.c](./Mar31/pattern8.c)   |
-| 5.     | ![image](./images/pattern9.png)                   | [pattern9.c](./Mar31/pattern9.c)   |
-| 5.     | ![image](./images/pattern10.png)                  | [pattern10.c](./Mar31/pattern10.c) |
+| 6.     | ![image](./images/pattern2.png)                   | [pattern2.c](./Mar31/pattern2.c)   |
+| 7.     | ![image](./images/pattern3.png)                   | [pattern3.c](./Mar31/pattern3.c)   |
+| 8.     | ![image](./images/pattern4.png)                   | [pattern4.c](./Mar31/pattern4.c)   |
+| 9.     | ![image](./images/pattern5.png)                   | [pattern5.c](./Mar31/pattern5.c)   |
+| 10.    | ![image](./images/pattern6.png)                   | [pattern6.c](./Mar31/pattern6.c)   |
+| 11.    | ![image](./images/pattern7.png)                   | [pattern7.c](./Mar31/pattern7.c)   |
+| 12.    | ![image](./images/pattern8.png)                   | [pattern8.c](./Mar31/pattern8.c)   |
+| 13.    | ![image](./images/pattern9.png)                   | [pattern9.c](./Mar31/pattern9.c)   |
+| 14.    | ![image](./images/pattern10.png)                  | [pattern10.c](./Mar31/pattern10.c) |
