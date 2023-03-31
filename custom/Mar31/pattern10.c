@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main()
 {
-	for (int i = 0; i < 5; i++)
+	for (int i = 6; i > 0; i--)
 	{
-		for (int j = i; j < 5; j++)
+		for (int j = i; j < 6; j++)
 			printf("%d ", j % 2);
-		printf("\n");
+		(i != 6) ? printf("\n") : printf("");
 	}
 	return 0;
 }
