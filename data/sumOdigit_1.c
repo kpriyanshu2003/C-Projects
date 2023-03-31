@@ -15,10 +15,13 @@ int main()
     while (s >= 10)
     {
         int s = 0;
-        d = s % 10;
-        s = s + d;
+        while (s != 0)
+        {
+            d = s % 10;
+            s = s + d;
+            s /= 10;
+        }
     }
-
     printf("%d", s);
     return 0;
 }
