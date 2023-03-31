@@ -7,7 +7,6 @@ int main()
 LOOP:
     do
     {
-
         if (a == 15)
         {
             a++;

@@ -127,8 +127,10 @@ This file provides for the index of all C programs taught in class with the date
 
 # 12. Timeline - 31st Mar
 
-| Sl No. | Topic                                       | Program                          |
-| ------ | ------------------------------------------- | -------------------------------- |
-| 1.     | WAP to show the use of `GOTO` keyword       | [goto.c](./Mar31/goto.c)         |
-| 2.     | WAP to show the use of `break` statement    | [break.c](./Mar31/break.c)       |
-| 3.     | WAP to show the use of `continue` statement | [continue.c](./Mar31/continue.c) |
+| Sl No. | Topic                                             | Program                          |
+| ------ | ------------------------------------------------- | -------------------------------- |
+| 1.     | WAP to show the use of `GOTO` keyword             | [goto.c](./Mar31/goto.c)         |
+| 2.     | WAP to show the use of `break` statement          | [break.c](./Mar31/break.c)       |
+| 3.     | WAP to show the use of `continue` statement       | [continue.c](./Mar31/continue.c) |
+| 4.     | WAP using do while loop to print numbers 10 to 20 | [10to20.c](./Mar31/10to20.c)     |
+| 5.     | ![image](./images/pattern3.png)                   | [pattern1.c](./Mar31/pattern1.c) |

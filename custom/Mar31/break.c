@@ -12,6 +12,6 @@ int main()
         }
         printf("%d ", a);
         a++;
-    } while (a < 20);
+    } while (a <= 20);
     return 0;
 }
