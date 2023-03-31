@@ -9,8 +9,8 @@ This file provides for the index of all C programs taught in class with the date
 | 1      | Basic linux commands and their functions                                           | [linux.md](./Feb08/linux.md)             |
 | 2      | WAP to display "HELLO WORLD" on screen                                             | [hello.c](./Feb08/hello.c)               |
 | 3      | WAP to display your personal info using C program                                  | [personalinfo.c](./Feb08/personalinfo.c) |
-| 4      | WAP to display the given pattern on the screen <br>![image](./images/pattern1.png) | [pattern1.c](./Feb08/pattern1.c)         |
-| 5      | WAP to display the given pattern on the screen <br>![image](./images/pattern2.png) | [pattern2.c](./Feb08/pattern2.c)         |
+| 4      | WAP to display the given pattern on the screen <br>![image](./images/pattern.png)  | [pattern.c](./Feb08/pattern.c)           |
+| 5      | WAP to display the given pattern on the screen <br>![image](./images/pattern0.png) | [pattern2.c](./Feb08/pattern0.c)         |
 | 6      | WAP to display "WELCOME" on screen <br>![image](./images/welcome.png)              | [welcome.c](./Feb08/welcome.c)           |
 | 7      | WAP to display "KIIT" on the screen <br>![image](./images/kiit.png)                | [kiit.c](./Feb08/kiit.c)                 |
 
@@ -127,10 +127,19 @@ This file provides for the index of all C programs taught in class with the date
 
 # 12. Timeline - 31st Mar
 
-| Sl No. | Topic                                             | Program                          |
-| ------ | ------------------------------------------------- | -------------------------------- |
-| 1.     | WAP to show the use of `GOTO` keyword             | [goto.c](./Mar31/goto.c)         |
-| 2.     | WAP to show the use of `break` statement          | [break.c](./Mar31/break.c)       |
-| 3.     | WAP to show the use of `continue` statement       | [continue.c](./Mar31/continue.c) |
-| 4.     | WAP using do while loop to print numbers 10 to 20 | [10to20.c](./Mar31/10to20.c)     |
-| 5.     | ![image](./images/pattern3.png)                   | [pattern1.c](./Mar31/pattern1.c) |
+| Sl No. | Topic                                             | Program                            |
+| ------ | ------------------------------------------------- | ---------------------------------- |
+| 1.     | WAP to show the use of `GOTO` keyword             | [goto.c](./Mar31/goto.c)           |
+| 2.     | WAP to show the use of `break` statement          | [break.c](./Mar31/break.c)         |
+| 3.     | WAP to show the use of `continue` statement       | [continue.c](./Mar31/continue.c)   |
+| 4.     | WAP using do while loop to print numbers 10 to 20 | [10to20.c](./Mar31/10to20.c)       |
+| 5.     | ![image](./images/pattern1.png)                   | [pattern1.c](./Mar31/pattern1.c)   |
+| 5.     | ![image](./images/pattern2.png)                   | [pattern2.c](./Mar31/pattern2.c)   |
+| 5.     | ![image](./images/pattern3.png)                   | [pattern3.c](./Mar31/pattern3.c)   |
+| 5.     | ![image](./images/pattern4.png)                   | [pattern4.c](./Mar31/pattern4.c)   |
+| 5.     | ![image](./images/pattern5.png)                   | [pattern5.c](./Mar31/pattern5.c)   |
+| 5.     | ![image](./images/pattern6.png)                   | [pattern6.c](./Mar31/pattern6.c)   |
+| 5.     | ![image](./images/pattern7.png)                   | [pattern7.c](./Mar31/pattern7.c)   |
+| 5.     | ![image](./images/pattern8.png)                   | [pattern8.c](./Mar31/pattern8.c)   |
+| 5.     | ![image](./images/pattern9.png)                   | [pattern9.c](./Mar31/pattern9.c)   |
+| 5.     | ![image](./images/pattern10.png)                  | [pattern10.c](./Mar31/pattern10.c) |
