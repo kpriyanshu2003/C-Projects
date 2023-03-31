@@ -3,7 +3,7 @@
 int main()
 {
     int a, b, m, n, gcd;
-    printf("\nEnter two numbers=> ");
+    printf("Enter two numbers : ");
     scanf("%d %d", &a, &b);
     m = a;
     n = b;
@@ -13,6 +13,6 @@ int main()
         else
             b = b - a;
     gcd = b;
-    printf("\nThe GCD of %d and %d is %d\n", m, n, gcd);
+    printf("The GCD of %d and %d is %d\n", m, n, gcd);
     return 0;
 }
