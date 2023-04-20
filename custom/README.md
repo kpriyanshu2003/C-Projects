@@ -149,3 +149,11 @@ This file provides for the index of all C programs taught in class with the date
 | Sl No. | Topic                            | Program                            |
 | ------ | -------------------------------- | ---------------------------------- |
 | 1.     | ![image](./images/pattern11.png) | [pattern11.c](./Apr12/pattern11.c) |
+
+# 14. Timeline - 19 Apr
+
+| Sl No. | Topic                                 | Program                        |
+| ------ | ------------------------------------- | ------------------------------ |
+| 1.     | WAP to convert hexadecimal to decimal | [hex2dec.c](./Apr19/hex2dec.c) |
+| 2.     | WAP to convert hexadecimal to binary  | [hex2bin.c](./Apr19/hex2bin.c) |
+| 3.     | WAP to convert octal to binary        | [oct2bin.c](./Apr19/oct2bin.c) |
