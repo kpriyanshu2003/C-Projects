@@ -160,10 +160,10 @@ This file provides for the index of all C programs taught in class with the date
 
 # 15. Timeline - 21 Apr
 
-| Sl No. | Topic                                                                 | Program                                |
-| ------ | --------------------------------------------------------------------- | -------------------------------------- |
-| 1.     | WAP to input a floating point number and check it with 4.6            | [float_chk.c](./Apr21/float_chk.c)     |
-| 2.     | WAP to print values stored in an array                                | [array_print.c](./Apr21/array_print.c) |
-| 3.     | WAP to store values in an array which has a difference of 1 with them | [array_dif1.c](./Apr21/array_dif1.c)   |
-| 4.     | WAP to swap values between two arrays                                 | [array_swap.c](./Apr21/array_swap.c)   |
-| 5.     | Find average of numbers entered in an array                           | [array_avg.c](./Apr21/array_avg.c)     |
+| Sl No. | Topic                                                                      | Program                                |
+| ------ | -------------------------------------------------------------------------- | -------------------------------------- |
+| 1.     | WAP to input a floating point number and check it with 4.6                 | [float_chk.c](./Apr21/float_chk.c)     |
+| 2.     | WAP to print values stored in an array                                     | [array_print.c](./Apr21/array_print.c) |
+| 3.     | WAP to store values in an array which increaments by 1 and starts from 100 | [array_dif1.c](./Apr21/array_dif1.c)   |
+| 4.     | WAP to swap values between two arrays                                      | [array_swap.c](./Apr21/array_swap.c)   |
+| 5.     | Find average of numbers entered in an array                                | [array_avg.c](./Apr21/array_avg.c)     |

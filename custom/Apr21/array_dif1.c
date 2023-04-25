@@ -6,6 +6,6 @@ int main()
     for (int i = 0; i < 10; i++)
         n[i] = i + 100;
     for (int i = 0; i < 10; i++)
-        printf("Element [%d[ is %d ", i, n[i]);
+        printf("Element [%d] is %d ", i, n[i]);
     return 0;
 }
