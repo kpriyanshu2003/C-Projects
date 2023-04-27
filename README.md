@@ -2,7 +2,8 @@
 
 C is a general-purpose computer programming language.
 It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential.
-Here, are some of the C programs created by me. And updated regularly.
+Here, are some of the C programs created by me. And updated regularly.<br>
+You can submit a pull request if you find information missing or incorrect.
 
 ## Programs
 

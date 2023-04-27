@@ -1,6 +1,7 @@
 # Index
 
-This file provides for the index of all C programs taught in class with the dates and Week
+This file provides for the index of all C programs taught in class with the dates and Week.<br>
+You can submit a pull request if you find information missing or incorrect.
 
 ## 1. Timeline - 8th Feb
 
@@ -167,3 +168,17 @@ This file provides for the index of all C programs taught in class with the date
 | 3.     | WAP to store values in an array which increaments by 1 and starts from 100 | [array_dif1.c](./Apr21/array_dif1.c)   |
 | 4.     | WAP to swap values between two arrays                                      | [array_swap.c](./Apr21/array_swap.c)   |
 | 5.     | Find average of numbers entered in an array                                | [array_avg.c](./Apr21/array_avg.c)     |
+
+# 16. Timeline - 26 Apr
+
+| Sl No. | Topic                                                                                            | Program                                              |
+| ------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
+| 1.     | WAP to print the number entered by the user in reverse order                                     | [reverse_num_print.c](./Apr26/reverse_num_print.c)   |
+| 2.     | WAP to print all odd numbers from an array                                                       | [odd_array.c](./Apr26/odd_array.c)                   |
+| 3.     | WAP to find the largest element stored in an array                                               | [array_largest.c](./Apr26/array_largest.c)           |
+| 4.     | WAP to find the second largest element stored in an array                                        | [array_2_largest.c](./Apr26/array_2_largest.c)       |
+| 5.     | WAP to program to initialize an array and reverse it                                             | [array_reverse.c](./Apr26/array_reverse.c)           |
+| 6.     | Rotate the elements of an array clockwise by 1 position                                          | [array_cw_1.c](./Apr26/array_cw_1.c)                 |
+| 7.     | Rotate the elements of an array anti-clockwise by n position                                     | [array_acw_n.c](./Apr26/array_acw_n.c)               |
+| 8.     | Initialize an array. Divide it in pairs of 3. Add the 3 terms and store it in place of 2nd term. | [array_combine.c](./Apr26/array_combine.c)           |
+| 9.     | Replace each element of an array by its factorial                                                | [array_fact_replace.c](./Apr26/array_fact_replace.c) |
