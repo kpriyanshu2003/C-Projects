@@ -182,3 +182,18 @@ You can submit a pull request if you find information missing or incorrect.
 | 7.     | Rotate the elements of an array anti-clockwise by n position                                     | [array_acw_n.c](./Apr26/array_acw_n.c)               |
 | 8.     | Initialize an array. Divide it in pairs of 3. Add the 3 terms and store it in place of 2nd term. | [array_combine.c](./Apr26/array_combine.c)           |
 | 9.     | Replace each element of an array by its factorial                                                | [array_fact_replace.c](./Apr26/array_fact_replace.c) |
+
+# 17. Timeline - 28 Apr
+
+| Sl No. | Topic                                                        | Program                                               |
+| ------ | ------------------------------------------------------------ | ----------------------------------------------------- |
+| 1.     | WAP to take input and display a 2D array                     | [2DA.c](./Apr28/2DA.c)                                |
+| 2.     | WAP to perform addition of all elements present inside a 2DA | [2DA_add.c](./Apr28/2DA_add.c)                        |
+| 3.     | WAP to display only diagonal elements                        | [2DA_diagonal.c](./Apr28/2DA_diagonal.c)              |
+| 4.     | WAP to display transpose of a matrix                         | [transpose.c](./Apr28/transpose.c)                    |
+| 5.     | WAP to perform addition / subtraction of two 2D arrays       | [2DA_add_sub.c](./Apr28/2DA_add_sub.c)                |
+| 6.     | WAP to display largest element from the matrix               | [largest.c](./Apr28/largest.c)                        |
+| 7.     | WAP to display smallest element in each row                  | [smallest_row.c](./Apr28/smallest_row.c)              |
+| 8.     | WAP to display smallest element in each column               | [largest_column.c](./Apr28/largest_column.c)          |
+| 9.     | WAP to generate a random number between 100 to 200           | [random.c](./Apr28/random.c) <- pending               |
+| 10.    | WAP to delete all duplicate values in a 1D array             | [del_duplicate.c](./Apr28/del_duplicate.c) <- pending |
