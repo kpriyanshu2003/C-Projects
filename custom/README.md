@@ -126,7 +126,7 @@ You can submit a pull request if you find information missing or incorrect.
 | 7.     | WAP to print fibonacci series up to n number of terms | [fibonacci.c](./Mar29/fibonacci.c) |
 | 8.     | WAP to add numbers until the user prints 0 (zero)     | [untilZero.c](./Mar29/untilZero.c) |
 
-# 12. Timeline - 31st Mar
+## 12. Timeline - 31st Mar
 
 | Sl No. | Topic                                             | Program                            |
 | ------ | ------------------------------------------------- | ---------------------------------- |
@@ -145,13 +145,13 @@ You can submit a pull request if you find information missing or incorrect.
 | 13.    | ![image](./images/pattern9.png)                   | [pattern9.c](./Mar31/pattern9.c)   |
 | 14.    | ![image](./images/pattern10.png)                  | [pattern10.c](./Mar31/pattern10.c) |
 
-# 13. Timeline - 12th Apr
+## 13. Timeline - 12th Apr
 
 | Sl No. | Topic                            | Program                            |
 | ------ | -------------------------------- | ---------------------------------- |
 | 1.     | ![image](./images/pattern11.png) | [pattern11.c](./Apr12/pattern11.c) |
 
-# 14. Timeline - 19 Apr
+## 14. Timeline - 19 Apr
 
 | Sl No. | Topic                                 | Program                        |
 | ------ | ------------------------------------- | ------------------------------ |
@@ -159,7 +159,7 @@ You can submit a pull request if you find information missing or incorrect.
 | 2.     | WAP to convert hexadecimal to binary  | [hex2bin.c](./Apr19/hex2bin.c) |
 | 3.     | WAP to convert octal to binary        | [oct2bin.c](./Apr19/oct2bin.c) |
 
-# 15. Timeline - 21 Apr
+## 15. Timeline - 21 Apr
 
 | Sl No. | Topic                                                                      | Program                                |
 | ------ | -------------------------------------------------------------------------- | -------------------------------------- |
@@ -169,7 +169,7 @@ You can submit a pull request if you find information missing or incorrect.
 | 4.     | WAP to swap values between two arrays                                      | [array_swap.c](./Apr21/array_swap.c)   |
 | 5.     | Find average of numbers entered in an array                                | [array_avg.c](./Apr21/array_avg.c)     |
 
-# 16. Timeline - 26 Apr
+## 16. Timeline - 26 Apr
 
 | Sl No. | Topic                                                                                            | Program                                              |
 | ------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
@@ -183,7 +183,7 @@ You can submit a pull request if you find information missing or incorrect.
 | 8.     | Initialize an array. Divide it in pairs of 3. Add the 3 terms and store it in place of 2nd term. | [array_combine.c](./Apr26/array_combine.c)           |
 | 9.     | Replace each element of an array by its factorial                                                | [array_fact_replace.c](./Apr26/array_fact_replace.c) |
 
-# 17. Timeline - 28 Apr
+## 17. Timeline - 28 Apr
 
 | Sl No. | Topic                                                        | Program                                               |
 | ------ | ------------------------------------------------------------ | ----------------------------------------------------- |
@@ -195,5 +195,13 @@ You can submit a pull request if you find information missing or incorrect.
 | 6.     | WAP to display largest element from the matrix               | [largest.c](./Apr28/largest.c)                        |
 | 7.     | WAP to display smallest element in each row                  | [smallest_row.c](./Apr28/smallest_row.c)              |
 | 8.     | WAP to display smallest element in each column               | [largest_column.c](./Apr28/largest_column.c)          |
-| 9.     | WAP to generate a random number between 100 to 200           | [random.c](./Apr28/random.c) <- pending               |
+| 9.     | WAP to generate a random number between 100 to 200           | [random.c](./Apr28/random.c)                          |
 | 10.    | WAP to delete all duplicate values in a 1D array             | [del_duplicate.c](./Apr28/del_duplicate.c) <- pending |
+
+## 18. Timeline - 03 May
+
+| Sl No. | Topic                                                                                                                                                                               | Program                                                           |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 1.     | WAP to input a number and display its nearest higher prime number                                                                                                                   | [near_high_prime.c](./May03/near_high_prime.c)                    |
+| 2.     | WAP to find the determinant of matrix                                                                                                                                               | [determinant.c](./May03/determinant.c)                            |
+| 3.     | WAP to generate random number between 10 and 15 in an array and replace all prime number with its nearest lowest prime number and replace all composite number with their factorial | [random_array.c](./Mar03/random_array.c) <- User Defined function |
