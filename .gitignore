@@ -1,0 +1,10 @@
+# ignore all executables
+*.exe
+tempCodeRunnerFile.c
+a.out
+testing.*
+temp
+workupon.md
+start.bat
+test.*
+*.swp
