@@ -2,7 +2,7 @@
 int main()
 {
 	int a[10];
-	printf("Enter 20 values : ");
+	printf("Enter 10 values : ");
 	for (int i = 0; i < 10; i++)
 		scanf("%d", &a[i]);
 	for (int i = 0; i < 5; i++)

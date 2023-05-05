@@ -15,6 +15,7 @@ int main()
         a[i] = 0;
         a[i + 2] = 0;
     }
+    printf("The array after processing : ");
     for (int i = 0; i < n; i++)
         printf("%d ", a[i]);
     return 0;

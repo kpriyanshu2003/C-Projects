@@ -19,6 +19,7 @@ int main()
             a[j] = a[j] - a[j - 1];
         }
     }
+    printf("The array after shifting : ");
     for (int i = 0; i < 10; i++)
         printf("%d ", a[i]);
     return 0;

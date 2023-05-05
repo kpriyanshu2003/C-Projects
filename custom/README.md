@@ -177,7 +177,7 @@ You can submit a pull request if you find information missing or incorrect.
 | 2.     | WAP to print all odd numbers from an array                                                       | [odd_array.c](./Apr26/odd_array.c)                   |
 | 3.     | WAP to find the largest element stored in an array                                               | [array_largest.c](./Apr26/array_largest.c)           |
 | 4.     | WAP to find the second largest element stored in an array                                        | [array_2_largest.c](./Apr26/array_2_largest.c)       |
-| 5.     | WAP to program to initialize an array and reverse it                                             | [array_reverse.c](./Apr26/array_reverse.c)           |
+| 5.     | WAP to initialize an array and reverse it                                                        | [array_reverse.c](./Apr26/array_reverse.c)           |
 | 6.     | Rotate the elements of an array clockwise by 1 position                                          | [array_cw_1.c](./Apr26/array_cw_1.c)                 |
 | 7.     | Rotate the elements of an array anti-clockwise by n position                                     | [array_acw_n.c](./Apr26/array_acw_n.c)               |
 | 8.     | Initialize an array. Divide it in pairs of 3. Add the 3 terms and store it in place of 2nd term. | [array_combine.c](./Apr26/array_combine.c)           |
@@ -204,4 +204,14 @@ You can submit a pull request if you find information missing or incorrect.
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | 1.     | WAP to input a number and display its nearest higher prime number                                                                                                                   | [near_high_prime.c](./May03/near_high_prime.c)                    |
 | 2.     | WAP to find the determinant of matrix                                                                                                                                               | [determinant.c](./May03/determinant.c)                            |
-| 3.     | WAP to generate random number between 10 and 15 in an array and replace all prime number with its nearest lowest prime number and replace all composite number with their factorial | [random_array.c](./Mar03/random_array.c) <- User Defined function |
+| 3.     | WAP to generate random number between 10 and 15 in an array and replace all prime number with its nearest lowest prime number and replace all composite number with their factorial | [random_array.c](./May03/random_array.c) <- User Defined function |
+
+## 19. Timeline - 05 Mar
+
+| Sl No. | Topic                                                                                                                                         | Program                                          | Status  |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------- |
+| 1.     | WAP to initialize a square matrix of users choice with random number then rotate the side elements clockwise and anticlockwise on user choice | [CW_ACW_array.c](./May05/CW_ACW_array.c)         | pending |
+| 2.     | WAP to populate an array with some random numbers and arrange even elements and odd elements separately (Odd : beginning, Even : end)         | [arrange_odd_even.c](./May05/arrange_odd_even.c) | DONE    |
+| 3.     | WAP to populate an arary with some random number and sort the first half in descending order and seond half in ascending order                | [sort_half.c](./May05/sort_half.c)               | DONE    |
+
+| <!--   | 4.                                                                                                                                            | WAP to find the LCM and HCF of smallest and largest element in the array | [lcm_hcf.c](./May05/lcm_hcf.c) | custom | --> |

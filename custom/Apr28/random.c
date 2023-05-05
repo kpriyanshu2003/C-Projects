@@ -12,5 +12,6 @@ int main()
         int num = (rand() % (upper - lower + 1)) + lower;
         printf("%d ", num);
     }
+    printf("%d ", time(0));
     return 0;
 }
