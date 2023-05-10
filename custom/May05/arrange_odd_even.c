@@ -10,7 +10,7 @@ int main()
     printf("Enter no. of elements : ");
     scanf("%d", &n);
     m = n / 2;
-    int a[n], o[m], e[m];
+    int a[n];
     printf("The array : \n");
     int l = 0, r = n - 1;
     for (int i = 0; i < n; i++)
