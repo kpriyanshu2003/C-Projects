@@ -8,11 +8,9 @@ int main()
         max;
     for (int i = 0; i < 3; i++)
     {
-        max = -1;
+        max = a[i][0];
         for (int j = 0; j < 3; j++)
-        {
             max = (a[j][i] > max) ? a[j][i] : max;
-        }
         printf("The largest element in column %d is %d\n", i + 1, max);
     }
     return 0;

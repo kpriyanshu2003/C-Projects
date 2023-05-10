@@ -1,4 +1,4 @@
-// C program for generating a random number in a given range.
+// WAP to generate a random number between 100 to 200
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -12,6 +12,5 @@ int main()
         int num = (rand() % (upper - lower + 1)) + lower;
         printf("%d ", num);
     }
-    printf("%d ", time(0));
     return 0;
 }

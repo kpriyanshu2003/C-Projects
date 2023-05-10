@@ -6,8 +6,8 @@ int main()
     int n, a = 0;
     printf("Enter a number : ");
     scanf("%d", &n);
-    if (n == 2)
-        printf("This is the lowest prime number");
+    if (n <= 2)
+        printf("There are no lower prime numbers");
     else
     {
         for (int i = n - 1; i > 1; i--)

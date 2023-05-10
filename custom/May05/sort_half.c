@@ -40,5 +40,3 @@ int main()
         printf("%d ", a[i]);
     return 0;
 }
-
-// find lcm and hcf of largest and smallest element in the array

@@ -10,9 +10,7 @@ int main()
     {
         max = a[i][0];
         for (int j = 0; j < 3; j++)
-        {
             max = (a[i][j] < max) ? a[i][j] : max;
-        }
         printf("The smallest element in row %d is %d\n", i + 1, max);
     }
     return 0;

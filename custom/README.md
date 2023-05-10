@@ -185,18 +185,18 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 17. Timeline - 28 Apr
 
-| Sl No. | Topic                                                        | Program                                               |
-| ------ | ------------------------------------------------------------ | ----------------------------------------------------- |
-| 1.     | WAP to take input and display a 2D array                     | [2DA.c](./Apr28/2DA.c)                                |
-| 2.     | WAP to perform addition of all elements present inside a 2DA | [2DA_add.c](./Apr28/2DA_add.c)                        |
-| 3.     | WAP to display only diagonal elements                        | [2DA_diagonal.c](./Apr28/2DA_diagonal.c)              |
-| 4.     | WAP to display transpose of a matrix                         | [transpose.c](./Apr28/transpose.c)                    |
-| 5.     | WAP to perform addition / subtraction of two 2D arrays       | [2DA_add_sub.c](./Apr28/2DA_add_sub.c)                |
-| 6.     | WAP to display largest element from the matrix               | [largest.c](./Apr28/largest.c)                        |
-| 7.     | WAP to display smallest element in each row                  | [smallest_row.c](./Apr28/smallest_row.c)              |
-| 8.     | WAP to display smallest element in each column               | [largest_column.c](./Apr28/largest_column.c)          |
-| 9.     | WAP to generate a random number between 100 to 200           | [random.c](./Apr28/random.c)                          |
-| 10.    | WAP to delete all duplicate values in a 1D array             | [del_duplicate.c](./Apr28/del_duplicate.c) <- pending |
+| Sl No. | Topic                                                        | Program                                      |
+| ------ | ------------------------------------------------------------ | -------------------------------------------- |
+| 1.     | WAP to take input and display a 2D array                     | [2DA.c](./Apr28/2DA.c)                       |
+| 2.     | WAP to perform addition of all elements present inside a 2DA | [2DA_add.c](./Apr28/2DA_add.c)               |
+| 3.     | WAP to display only diagonal elements                        | [2DA_diagonal.c](./Apr28/2DA_diagonal.c)     |
+| 4.     | WAP to display transpose of a matrix                         | [transpose.c](./Apr28/transpose.c)           |
+| 5.     | WAP to perform addition / subtraction of two 2D arrays       | [2DA_add_sub.c](./Apr28/2DA_add_sub.c)       |
+| 6.     | WAP to display largest element from the matrix               | [largest.c](./Apr28/largest.c)               |
+| 7.     | WAP to display smallest element in each row                  | [smallest_row.c](./Apr28/smallest_row.c)     |
+| 8.     | WAP to display smallest element in each column               | [largest_column.c](./Apr28/largest_column.c) |
+| 9.     | WAP to generate a random number between 100 to 200           | [random.c](./Apr28/random.c)                 |
+| 10.    | WAP to delete all duplicate values in a 1D array             | [del_duplicate.c](./Apr28/del_duplicate.c)   |
 
 ## 18. Timeline - 03 May
 
@@ -214,4 +214,4 @@ You can submit a pull request if you find information missing or incorrect.
 | 2.     | WAP to populate an array with some random numbers and arrange even elements and odd elements separately (Odd : beginning, Even : end)         | [arrange_odd_even.c](./May05/arrange_odd_even.c) | DONE    |
 | 3.     | WAP to populate an arary with some random number and sort the first half in descending order and seond half in ascending order                | [sort_half.c](./May05/sort_half.c)               | DONE    |
 
-| <!--   | 4.                                                                                                                                            | WAP to find the LCM and HCF of smallest and largest element in the array | [lcm_hcf.c](./May05/lcm_hcf.c) | custom | --> |
+ <!--   | 4. WAP to find the LCM and HCF of smallest and largest element in the array | [lcm_hcf.c](./May05/lcm_hcf.c)-->
