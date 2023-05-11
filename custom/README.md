@@ -200,29 +200,28 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 18. Timeline - 03 May
 
-| Sl No. | Topic                                                                                                                                                                               | Program                                                           |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 1.     | WAP to input a number and display its nearest higher prime number                                                                                                                   | [near_high_prime.c](./May03/near_high_prime.c)                    |
-| 2.     | WAP to find the determinant of matrix                                                                                                                                               | [determinant.c](./May03/determinant.c)                            |
-| 3.     | WAP to generate random number between 10 and 15 in an array and replace all prime number with its nearest lowest prime number and replace all composite number with their factorial | [random_array.c](./May03/random_array.c) <- User Defined function |
+| Sl No. | Topic                                                                                                                                                                               | Program                                        |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 1.     | WAP to input a number and display its nearest higher prime number                                                                                                                   | [near_high_prime.c](./May03/near_high_prime.c) |
+| 2.     | WAP to find the determinant of matrix                                                                                                                                               | [determinant.c](./May03/determinant.c)         |
+| 3.     | WAP to generate random number between 10 and 15 in an array and replace all prime number with its nearest lowest prime number and replace all composite number with their factorial | [random_array.c](./May03/random_array.c)       |
 
 ## 19. Timeline - 05 May
 
-| Sl No. | Topic                                                                                                                                         | Program                                          | Status  |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------- |
-| 1.     | WAP to initialize a square matrix of users choice with random number then rotate the side elements clockwise and anticlockwise on user choice | [CW_ACW_array.c](./May05/CW_ACW_array.c)         | pending |
-| 2.     | WAP to populate an array with some random numbers and arrange even elements and odd elements separately (Odd : beginning, Even : end)         | [arrange_odd_even.c](./May05/arrange_odd_even.c) | DONE    |
-| 3.     | WAP to populate an arary with some random number and sort the first half in descending order and seond half in ascending order                | [sort_half.c](./May05/sort_half.c)               | DONE    |
-| <!--   | 4. WAP to find the LCM and HCF of smallest and largest element in the array                                                                   | [lcm_hcf.c](./May05/lcm_hcf.c)-->                |
+| Sl No. | Topic                                                                                                                                         | Program                                          |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 1.     | WAP to initialize a square matrix of users choice with random number then rotate the side elements clockwise and anticlockwise on user choice | [CW_ACW_array.c](./May05/CW_ACW_array.c)         |
+| 2.     | WAP to populate an array with some random numbers and arrange even elements and odd elements separately (Odd : beginning, Even : end)         | [arrange_odd_even.c](./May05/arrange_odd_even.c) |
+| 3.     | WAP to populate an arary with some random number and sort the first half in descending order and seond half in ascending order                | [sort_half.c](./May05/sort_half.c)               |
 
 ## 20. Timeline - 10 May
 
 | Sl No. | Topic                                                     | Program                          |
 | ------ | --------------------------------------------------------- | -------------------------------- |
 | 1.     | WAP to search an element within an array                  | [search.c](./May10/search.c)     |
-| 2.     | WAP to take a string array and print your naem            | [string.c](./May10/string.c)     |
+| 2.     | WAP to take a string array and print it                   | [string.c](./May10/string.c)     |
 | 3.     | WAP to check if a character is in uppercase or lower case | [chkUpper.c](./May10/chkupper.c) |
 | 4.     | WAP to find the length of a string array                  | [strlen.c](./May10/strlen.c)     |
 | 5.     | WAP to copy one string to another                         | [strcpy.c](./May10/strcpy.c)     |
 | 6.     | WAP to check if two strings are similar                   | [strcmp.c](./May10/strcmp.c)     |
-| 6.     | WAP to reverse a string                                   | [strrev.c](./May10/strrev.c)     |
+| 7.     | WAP to reverse a string                                   | [strrev.c](./May10/strrev.c)     |
