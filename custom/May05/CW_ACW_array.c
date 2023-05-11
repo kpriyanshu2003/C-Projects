@@ -1,66 +1,69 @@
 // WAP to initialize a square matrix of user's choice with random number then rotate the side elements clockwise and anticlockwise on user choice
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
 int main()
 {
-    int r, c, z;
-    printf("Enter the row and column of array : ");
-    scanf("%d %d", &r, &c);
-    int a[r][c], temp[r * c];
+    int n, ch, m, temp;
     srand(time(0));
+    printf("Enter the size of square matrix : ");
+    scanf("%d", &n);
+    int a[n][n];
+    for (int i = 0; i < n; i++)
+        for (int j = 0; j < n; j++)
+            a[i][j] = rand() % 90 + 9;
     printf("The array : \n");
-    for (int i = 0; i < r; i++)
+    for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < c; j++)
-            printf("%d ", a[i][j] = temp[i + j] = (rand() % (99 - 10 + 1)) + 10);
+        for (int j = 0; j < n; j++)
+            printf("%d  ", a[i][j]);
         printf("\n");
     }
-    int ch;
-    printf("1. Rotate the elements clockwise\n2. Rotate the elements anti-clockwise\n");
-    printf("Enter your choice : ");
+    printf("1. Clockwise Shifting\n2. Anticlockwise Shift\nEnter your choice : ");
     scanf("%d", &ch);
+    m = a[0][0];
     switch (ch)
     {
     case 1:
-        printf("Enter the number of times to shift : ");
-        scanf("%d", &z);
-        // Rotate clockwwise
-        for (int i = 0; i < z; i++)
+        // Clockwise Shift
+        for (int i = 0; i < n / 2; i++)
         {
-            for (int j = (r * c) - 1; j > 0; j--)
+            for (int j = i; j < n - i - 1; j++)
             {
-                temp[j] = temp[j] + temp[j - 1];
-                temp[j - 1] = temp[j] - temp[j - 1];
-                temp[j] = temp[j] - temp[j - 1];
+                temp = a[i][j];
+                a[i][j] = a[n - j - 1][i];
+                a[n - j - 1][i] = a[n - i - 1][n - j - 1];
+                a[n - i - 1][n - j - 1] = a[j][n - i - 1];
+                a[j][n - i - 1] = temp;
             }
         }
+        a[1][0] = m;
         break;
     case 2:
-        // Rotate anticlockwise
-        printf("\nEnter number of times to shift : ");
-        scanf("%d", &z);
-        for (int i = 0; i < z; i++)
+        // Anticlockwise Shift
+        for (int i = 0; i < n / 2; i++)
         {
-            for (int j = 1; j < r * c; j++)
+            for (int j = i; j < n - i - 1; j++)
             {
-                temp[j] = temp[j] + temp[j - 1];
-                temp[j - 1] = temp[j] - temp[j - 1];
-                temp[j] = temp[j] - temp[j - 1];
+                temp = a[i][j];
+                a[i][j] = a[j][n - i - 1];
+                a[j][n - i - 1] = a[n - i - 1][n - j - 1];
+                a[n - i - 1][n - j - 1] = a[n - j - 1][i];
+                a[n - j - 1][i] = temp;
             }
         }
+        a[0][1] = m;
         break;
     default:
-        printf("Invalid Choice");
+        printf("Invalid Choice\n");
         break;
     }
-    printf("The array after shifting : \n");
-    for (int i = 0; i < r; i++)
+    printf("The shifted array : \n");
+    for (int i = 0; i < n; i++)
     {
-        for (int j = 0; j < c; j++)
-            printf("%d ", a[i][j] = temp[i + j]);
+        for (int j = 0; j < n; j++)
+            printf("%d  ", a[i][j]);
         printf("\n");
     }
     return 0;
