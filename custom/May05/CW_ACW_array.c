@@ -28,7 +28,6 @@ int main()
     case 1:
         // Clockwise Shift
         for (int i = 0; i < n / 2; i++)
-        {
             for (int j = i; j < n - i - 1; j++)
             {
                 temp = a[i][j];
@@ -37,13 +36,11 @@ int main()
                 a[n - i - 1][n - j - 1] = a[j][n - i - 1];
                 a[j][n - i - 1] = temp;
             }
-        }
         a[1][0] = m;
         break;
     case 2:
         // Anticlockwise Shift
         for (int i = 0; i < n / 2; i++)
-        {
             for (int j = i; j < n - i - 1; j++)
             {
                 temp = a[i][j];
@@ -52,7 +49,6 @@ int main()
                 a[n - i - 1][n - j - 1] = a[n - j - 1][i];
                 a[n - j - 1][i] = temp;
             }
-        }
         a[0][1] = m;
         break;
     default:
