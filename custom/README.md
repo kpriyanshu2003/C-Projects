@@ -225,3 +225,14 @@ You can submit a pull request if you find information missing or incorrect.
 | 5.     | WAP to copy one string to another                         | [strcpy.c](./May10/strcpy.c)     |
 | 6.     | WAP to check if two strings are similar                   | [strcmp.c](./May10/strcmp.c)     |
 | 7.     | WAP to reverse a string                                   | [strrev.c](./May10/strrev.c)     |
+
+## 21. Timeline - 12 May
+
+| Sl No | Topic                                                                                                 | Program                                  |
+| ----- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1.    | WAP to enter a string an count the number of words                                                    | [count_words.c](./May12/count_words.c)   |
+| 2.    | WAP to input a string and check whether it is palindrome or not                                       | [palindrome.c](./May12/palindrome.c)     |
+| 3.    | WAP to input a string and display only the nth word                                                   | [nth_word.c](./May12/nth_word.c)         |
+| 4.    | WAP to input a string and display it in uppercase, lowercase, sentence case, proper case, toggle case | [string_cases.c](./May12/string_case.c)  |
+| 5.    | WAP to input a name and display in short form. Ex. John Doe -> J. Doe                                 | [short_name.c](./May12/short_name.c)     |
+| 6.    | WAP to input a string and reverse each word in its place                                              | [reverse_word.c](./May12/reverse_word.c) |
