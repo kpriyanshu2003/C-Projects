@@ -7,11 +7,12 @@ int main()
     printf("Enter a word : ");
     scanf("%s", str);
     int l = strlen(str);
-    for (int i = l - 1; i >= 0; i--)
-        st[l - 1 - i] = str[i];
-    if (!strcmp(st, str))
-        printf("It is a palindrome string");
+    for (int i = 0; i < l; i++)
+        st[i] = str[l - i - 1];
+    st[l] = '\0';
+    if (!strcmp(str, st))
+        printf("It is a palindrome word");
     else
-        printf("It is not a palindrome string");
+        printf("It is not a palindrome word");
     return 0;
 }
