@@ -10,11 +10,6 @@ int main()
     for (int i = 0; i < l; i++)
         st[i] = str[l - i - 1];
     st[l] = '\0';
-<<<<<<< HEAD
-=======
-    printf("'%s'\n", st);
-    printf("'%s'\n", str);
->>>>>>> 24cd77bdc9f122770e7dbe3dd41146a72ee834e5
     if (!strcmp(str, st))
         printf("It is a palindrome word");
     else
