@@ -36,5 +36,5 @@ int main()
         i++;
     }
     word[j] = '\0';
-    printf("The word is : %s\n", word);
+    printf("The final name is : %s\n", word);
 }
