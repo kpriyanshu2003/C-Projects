@@ -38,10 +38,10 @@ int main()
     // toggle
     printf("\nString in Toggle Case : ");
     for (int i = 0; i < l; i++)
-        if (str[i] >= 65 && str[i] <= 90)
-            printf("%c", tolower(str[i]));
-        else if (str[i] >= 97 && str[i] <= 122)
+        if (islower(str[i]))
             printf("%c", toupper(str[i]));
+        else if (isupper(str[i]))
+            printf("%c", tolower(str[i]));
         else
             printf("%c", str[i]);
     return 0;
