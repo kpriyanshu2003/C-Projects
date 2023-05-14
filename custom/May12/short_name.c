@@ -16,9 +16,7 @@ int main()
     while (str[i] != '\0')
     {
         if (str[i] == ' ' || str[i] == '\n')
-        {
             count++;
-        }
         else
         {
             if ((i == 0 || str[i - 1] == ' ') && count < c - 1)
@@ -28,12 +26,15 @@ int main()
                 word[j++] = ' ';
             }
             else if (count == c - 1)
+            {
                 if (str[i - 1] == ' ')
                     word[j++] = toupper(str[i]);
                 else
                     word[j++] = str[i];
+            }
         }
         i++;
     }
+    word[j] = '\0';
     printf("The word is : %s\n", word);
 }
