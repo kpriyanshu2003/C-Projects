@@ -6,7 +6,8 @@ int main()
     int n;
     printf("Enter n : ");
     scanf("%d", &n);
-    if (n == 0 || n == 1)
+    printf("The %dth term is : ", n);
+    if (n == 1 || n == 2)
         printf("%d ", n);
     else
     {

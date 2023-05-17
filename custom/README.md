@@ -248,17 +248,30 @@ You can submit a pull request if you find information missing or incorrect.
 
 # 22. Timeline - 17 May
 
-| Sl No. | Topic                                                                              | Program                            |
-| ------ | ---------------------------------------------------------------------------------- | ---------------------------------- |
-| 1.     | WAP to find maximum of two numbers using Functions.                                | [max_2.c](./May17/max_2.c)         |
-| 2.     | WAP to find factorial of a number using Functions.                                 | [factorial.c](./May17/factorial.c) |
-| 3.     | Swaping of two numbers using Functions                                             |                                    |
-| 4.     | Find out the value of nth term of the Fibonacci sequence                           |                                    |
-| 5.     | Sum of digits using functions.                                                     |                                    |
-| 6.     | calculate the sum of all the integers stored in the array.                         |                                    |
-| 7.     | Search an element within an array using functions.                                 |                                    |
-| 8.     | Sort elements in ascending order within an array using sort user defined function. |                                    |
-| 9.     | Calculate GCD/HCF using functions.                                                 |                                    |
-| 10.    | WAP to check if a given number is Fibonacci number?                                |                                    |
+## Phase 1
 
-HINT: A number is Fibonacci if and only if one or both of (5*n^2 + 4) or (5*n^2 – 4) is a perfect square .
+| Sl No. | Topic                                                                                     | Program                            |
+| ------ | ----------------------------------------------------------------------------------------- | ---------------------------------- |
+| 1.     | WAP to find maximum of two numbers using Functions.                                       | [max_2.c](./May17/max_2.c)         |
+| 2.     | WAP to find factorial of a number using Functions.                                        | [factorial.c](./May17/factorial.c) |
+| 3.     | WAP to swap two numbers using Functions                                                   | [swap.c](./May17/swap.c)           |
+| 4.     | WAP to find out nth term of the Fibonacci sequence                                        | [fibonacci.c](./May17/fibonacci.c) |
+| 5.     | WAP to find the sum of digits using functions.                                            | [sum.c](./May17/sum.c)             |
+| 6.     | WAP to calculate the sum of all the integers stored in the array.                         | [array_sum.c](./May17/array_sum.c) |
+| 7.     | WAP to search an element within an array using functions.                                 | [search.c](./May17/search.c)       |
+| 8.     | WAP to sort elements in ascending order within an array using sort user defined function. | [sort.c](./May17/sort.c)           |
+| 9.     | WAP to calculate GCD/HCF using functions.                                                 | [hcf.c](./May17/hcf.c)             |
+| 10.    | WAP to check if a given number is Fibonacci number?                                       | [chk_fibo.c](./May17/chk_fibo.c)   |
+
+HINT: A number is Fibonacci if and only if one or both of `(5*n^2 + 4)` or `(5*n^2 – 4)` is a perfect square.
+
+## Phase 2
+
+| Sl No. | Topic                                              | Program                                    |
+| ------ | -------------------------------------------------- | ------------------------------------------ |
+| 1.     | Sum of natural numbers using recursion.            | [sum_recursion.c](./May17/sum_recursion.c) |
+| 2.     | Factorial of a number using recursion.             |                                            |
+| 3.     | GCD/HCF using recursion.                           |                                            |
+| 4.     | Count digits of a number using recursion.          |                                            |
+| 5.     | Print Sum of Even Numbers in Array using Recursion |                                            |
+| 6.     | Find nth term in Fibonacci series                  |                                            |
