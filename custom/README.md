@@ -248,17 +248,17 @@ You can submit a pull request if you find information missing or incorrect.
 
 # 22. Timeline - 17 May
 
-| Sl No. | Topic                                                                              | Program                    |
-| ------ | ---------------------------------------------------------------------------------- | -------------------------- |
-| 1.     | Maximum of two numbers using Functions.                                            | [max_2.c](./May17/max_2.c) |
-| 2.     | Factorial of a number using Functions.                                             |                            |
-| 3.     | Swaping of two numbers using Functions                                             |                            |
-| 4.     | Find out the value of nth term of the Fibonacci sequence                           |                            |
-| 5.     | Sum of digits using functions.                                                     |                            |
-| 6.     | calculate the sum of all the integers stored in the array.                         |                            |
-| 7.     | Search an element within an array using functions.                                 |                            |
-| 8.     | Sort elements in ascending order within an array using sort user defined function. |                            |
-| 9.     | Calculate GCD/HCF using functions.                                                 |                            |
-| 10.    | WAP to check if a given number is Fibonacci number?                                |                            |
+| Sl No. | Topic                                                                              | Program                            |
+| ------ | ---------------------------------------------------------------------------------- | ---------------------------------- |
+| 1.     | WAP to find maximum of two numbers using Functions.                                | [max_2.c](./May17/max_2.c)         |
+| 2.     | WAP to find factorial of a number using Functions.                                 | [factorial.c](./May17/factorial.c) |
+| 3.     | Swaping of two numbers using Functions                                             |                                    |
+| 4.     | Find out the value of nth term of the Fibonacci sequence                           |                                    |
+| 5.     | Sum of digits using functions.                                                     |                                    |
+| 6.     | calculate the sum of all the integers stored in the array.                         |                                    |
+| 7.     | Search an element within an array using functions.                                 |                                    |
+| 8.     | Sort elements in ascending order within an array using sort user defined function. |                                    |
+| 9.     | Calculate GCD/HCF using functions.                                                 |                                    |
+| 10.    | WAP to check if a given number is Fibonacci number?                                |                                    |
 
 HINT: A number is Fibonacci if and only if one or both of (5*n^2 + 4) or (5*n^2 – 4) is a perfect square .

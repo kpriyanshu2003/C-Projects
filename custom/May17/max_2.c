@@ -1,4 +1,4 @@
-//  WAP to find the maximum between two numbers
+//  WAP to find the maximum of two numbers
 #include <stdio.h>
 int max(int a, int b)
 {
