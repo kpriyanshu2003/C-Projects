@@ -236,3 +236,29 @@ You can submit a pull request if you find information missing or incorrect.
 | 4.    | WAP to input a string and display it in uppercase, lowercase, sentence case, proper case, toggle case | [string_cases.c](./May12/string_case.c)  |
 | 5.    | WAP to input a name and display in short form. Ex. John Doe -> J. Doe                                 | [short_name.c](./May12/short_name.c)     |
 | 6.    | WAP to input a string and reverse each word in its place                                              | [reverse_word.c](./May12/reverse_word.c) |
+
+# Test - 17 May
+
+| Sl No. | Topic                                                                            | Program                       |
+| ------ | -------------------------------------------------------------------------------- | ----------------------------- |
+| 1.     | WAP to populate an array with random numbers and display alternate prime numbers | [set_1.](./May17-test/set1.c) |
+| 2.     | WAP to display nth term of fibonacci series                                      | [set_2.](./May17-test/set2.c) |
+| 3.     | WAP to input two numbers and find factorial of their difference                  | [set_3.](./May17-test/set3.c) |
+| 4.     | WAP to check if a number is armstrong number                                     | [set_4.](./May17-test/set4.c) |
+
+# 22. Timeline - 17 May
+
+| Sl No. | Topic                                                                              | Program                    |
+| ------ | ---------------------------------------------------------------------------------- | -------------------------- |
+| 1.     | Maximum of two numbers using Functions.                                            | [max_2.c](./May17/max_2.c) |
+| 2.     | Factorial of a number using Functions.                                             |                            |
+| 3.     | Swaping of two numbers using Functions                                             |                            |
+| 4.     | Find out the value of nth term of the Fibonacci sequence                           |                            |
+| 5.     | Sum of digits using functions.                                                     |                            |
+| 6.     | calculate the sum of all the integers stored in the array.                         |                            |
+| 7.     | Search an element within an array using functions.                                 |                            |
+| 8.     | Sort elements in ascending order within an array using sort user defined function. |                            |
+| 9.     | Calculate GCD/HCF using functions.                                                 |                            |
+| 10.    | WAP to check if a given number is Fibonacci number?                                |                            |
+
+HINT: A number is Fibonacci if and only if one or both of (5*n^2 + 4) or (5*n^2 – 4) is a perfect square .
