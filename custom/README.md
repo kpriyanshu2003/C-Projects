@@ -267,11 +267,11 @@ HINT: A number is Fibonacci if and only if one or both of `(5*n^2 + 4)` or `(5*n
 
 ## Phase 2
 
-| Sl No. | Topic                                              | Program                                    |
-| ------ | -------------------------------------------------- | ------------------------------------------ |
-| 1.     | Sum of natural numbers using recursion.            | [sum_recursion.c](./May17/sum_recursion.c) |
-| 2.     | Factorial of a number using recursion.             |                                            |
-| 3.     | GCD/HCF using recursion.                           |                                            |
-| 4.     | Count digits of a number using recursion.          |                                            |
-| 5.     | Print Sum of Even Numbers in Array using Recursion |                                            |
-| 6.     | Find nth term in Fibonacci series                  |                                            |
+| Sl No. | Topic                                              | Program                                                |
+| ------ | -------------------------------------------------- | ------------------------------------------------------ |
+| 1.     | Sum of natural numbers using recursion.            | [sum_recursion.c](./May17/sum_recursion.c)             |
+| 2.     | Factorial of a number using recursion.             | [factorial_recursion.c](./May17/factorial_recursion.c) |
+| 3.     | GCD/HCF using recursion.                           |                                                        |
+| 4.     | Count digits of a number using recursion.          | [count_recusion.c](./May17/count_recusrion.c)          |
+| 5.     | Print Sum of Even Numbers in Array using Recursion |                                                        |
+| 6.     | Find nth term in Fibonacci series                  |                                                        |
