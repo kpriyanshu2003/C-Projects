@@ -239,12 +239,12 @@ You can submit a pull request if you find information missing or incorrect.
 
 # Test - 17 May
 
-| Sl No. | Topic                                                                            | Program                       |
-| ------ | -------------------------------------------------------------------------------- | ----------------------------- |
-| 1.     | WAP to populate an array with random numbers and display alternate prime numbers | [set_1.](./May17-test/set1.c) |
-| 2.     | WAP to display nth term of fibonacci series                                      | [set_2.](./May17-test/set2.c) |
-| 3.     | WAP to input two numbers and find factorial of their difference                  | [set_3.](./May17-test/set3.c) |
-| 4.     | WAP to check if a number is armstrong number                                     | [set_4.](./May17-test/set4.c) |
+| Sl No. | Topic                                                                            | Program                        |
+| ------ | -------------------------------------------------------------------------------- | ------------------------------ |
+| 1.     | WAP to populate an array with random numbers and display alternate prime numbers | [set_1.c](./May17-test/set1.c) |
+| 2.     | WAP to display nth term of fibonacci series                                      | [set_2.c](./May17-test/set2.c) |
+| 3.     | WAP to input two numbers and find factorial of their difference                  | [set_3.c](./May17-test/set3.c) |
+| 4.     | WAP to check if a number is armstrong number                                     | [set_4.c](./May17-test/set4.c) |
 
 # 22. Timeline - 17 May
 
@@ -271,7 +271,7 @@ HINT: A number is Fibonacci if and only if one or both of `(5*n^2 + 4)` or `(5*n
 | ------ | -------------------------------------------------- | ------------------------------------------------------ |
 | 1.     | Sum of natural numbers using recursion.            | [sum_recursion.c](./May17/sum_recursion.c)             |
 | 2.     | Factorial of a number using recursion.             | [factorial_recursion.c](./May17/factorial_recursion.c) |
-| 3.     | GCD/HCF using recursion.                           |                                                        |
-| 4.     | Count digits of a number using recursion.          | [count_recusion.c](./May17/count_recusrion.c)          |
-| 5.     | Print Sum of Even Numbers in Array using Recursion |                                                        |
-| 6.     | Find nth term in Fibonacci series                  |                                                        |
+| 3.     | GCD/HCF using recursion.                           | [gcd_recursion.c](./May17/gcd_recursion.c)             |
+| 4.     | Count digits of a number using recursion.          | [count_recursion.c](./May17/count_recusrion.c)         |
+| 5.     | Print Sum of Even Numbers in Array using Recursion | [sum_even_recursion.c](./May17/sum_even_recursion.c)   |
+| 6.     | Find nth term in Fibonacci series                  | [nth_fibo.c](./May17/nth_fibo.c)                       |
