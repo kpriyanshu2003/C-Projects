@@ -3,10 +3,10 @@
 int fib(int n)
 {
     if (n == 1 || n == 2)
-        return n;
+        return n - 1;
     else
     {
-        int t1 = 1, t2 = 1, nxt;
+        int t1 = 0, t2 = 1, nxt;
         for (int i = 3; i <= n; i++)
         {
             nxt = t1 + t2;
