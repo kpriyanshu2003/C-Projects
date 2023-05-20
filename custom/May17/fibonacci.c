@@ -2,19 +2,14 @@
 #include <stdio.h>
 int fib(int n)
 {
-    if (n == 1 || n == 2)
-        return n - 1;
-    else
+    int t1 = 0, t2 = 1, nxt;
+    for (int i = 2; i <= n; i++)
     {
-        int t1 = 0, t2 = 1, nxt;
-        for (int i = 3; i <= n; i++)
-        {
-            nxt = t1 + t2;
-            t1 = t2;
-            t2 = nxt;
-        }
-        return nxt;
+        nxt = t1 + t2;
+        t1 = t2;
+        t2 = nxt;
     }
+    return t1;
 }
 
 int main()

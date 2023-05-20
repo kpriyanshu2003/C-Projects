@@ -7,18 +7,13 @@ int main()
     printf("Enter n : ");
     scanf("%d", &n);
     printf("The %dth term is : ", n);
-    if (n == 1 || n == 2)
-        printf("%d ", n - 1);
-    else
+    int t1 = 0, t2 = 1, nxt;
+    for (int i = 3; i <= n; i++)
     {
-        int t1 = 0, t2 = 1, nxt;
-        for (int i = 3; i <= n; i++)
-        {
-            nxt = t1 + t2;
-            t1 = t2;
-            t2 = nxt;
-        }
-        printf("%d ", nxt);
+        nxt = t1 + t2;
+        t1 = t2;
+        t2 = nxt;
     }
+    printf("%d ", t1);
     return 0;
 }
