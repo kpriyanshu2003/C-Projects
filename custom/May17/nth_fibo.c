@@ -12,6 +12,6 @@ int main()
     int n;
     printf("Enter the value of n: ");
     scanf("%d", &n);
-    printf("The %dth term of the Fibonacci series is: %d\n", fibonacciRecursive(n));
+    printf("The %dth term of the Fibonacci series is: %d\n", n, fibonacciRecursive(n));
     return 0;
 }

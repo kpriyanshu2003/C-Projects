@@ -1,6 +1,5 @@
 // WAP to find GCD of a number using recursion
 #include <stdio.h>
-
 int gcd(int a, int b)
 {
     if (b == 0)

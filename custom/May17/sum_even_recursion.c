@@ -1,6 +1,5 @@
 // WAP to find sum of even elements of an array
 #include <stdio.h>
-
 int sumEven(int arr[], int size)
 {
     if (size == 0)
@@ -16,6 +15,5 @@ int main()
 {
     int arr[] = {1, 2, 3, 4, 5, 6};
     printf("Sum of even numbers in the array: %d", sumEven(arr, 6));
-
     return 0;
 }
