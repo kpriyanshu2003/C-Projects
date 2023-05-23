@@ -3,7 +3,8 @@
 void sum(int *a, int *s, int *res)
 {
     for (int i = 0; i < *s; i++)
-        *res = *res + *(a + i);
+        if (*(a + i) > 0)
+            *res = *res + *(a + i);
 }
 int main()
 {
