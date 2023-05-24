@@ -5,7 +5,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 1. Timeline - 8th Feb
 
-| Sl No. | Topic                                                                              | Program                                  |
+| Sl No. | Question                                                                           | Program                                  |
 | ------ | ---------------------------------------------------------------------------------- | ---------------------------------------- |
 | 1      | Basic linux commands and their functions                                           | [linux.md](./Feb08/linux.md)             |
 | 2      | WAP to display "HELLO WORLD" on screen                                             | [hello.c](./Feb08/hello.c)               |
@@ -17,7 +17,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 2. Timeline - 15th Feb
 
-| Sl No. | Topic                                                                                      | Program                                    |
+| Sl No. | Question                                                                                   | Program                                    |
 | ------ | ------------------------------------------------------------------------------------------ | ------------------------------------------ |
 | 1      | WAP to perform the arthemetic operations (+,-,\*,/) on two integers and display the result | [arithmetic.c](./Feb15/arithmetic.c)       |
 | 2      | WAP to find centigrade for a given Fahrenheit temperature                                  | [temp_conv.c](./Feb15/temp_conv.c)         |
@@ -26,7 +26,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 3. Timeline - 22nd Feb
 
-| Sl No. | Topic                                              | Program                                  |
+| Sl No. | Question                                           | Program                                  |
 | ------ | -------------------------------------------------- | ---------------------------------------- |
 | 1      | WAP to convert rupee to paisa                      | [rupee_paisa.c](./Feb22/rupee_paisa.c)   |
 | 2      | WAP to convert paisa to rupee                      | [paisa_rupee.c](./Feb22/paisa_rupee.c)   |
@@ -37,7 +37,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 4. Timeline - 1st Mar
 
-| Sl No. | Topic                                                                                                                                                               | Program                              |
+| Sl No. | Question                                                                                                                                                            | Program                              |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | 1      | WAP to perform arithmetic operations on the following : <br> a, b = user input <br> c = a + b, c = a - b, c = a \* b, c = a / b, c = a % b                          | [arithmetic.c](./Mar01/arithmetic.c) |
 | 2      | WAP to perform bitwise operations on the following : <br> a = 15, b = 17 <br> c = a & b, c = a \| b, c = a ^ b, c = ~a, c = ~b                                      | [bitwise.c](./Mar01/bitwise.c)       |
@@ -45,7 +45,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 5. Timeline - 3rd March
 
-| Sl No. | Topic                                                                                      | Program                              |
+| Sl No. | Question                                                                                   | Program                              |
 | ------ | ------------------------------------------------------------------------------------------ | ------------------------------------ |
 | 1      | WAP to initialise an integer variable, and display it using all possible format specifiers | [integer.c](./Mar03/integer.c)       |
 | 2      | WAP to input a number and display in opposite sign                                         | [sign.c](./Mar03/sign.c)             |
@@ -61,7 +61,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 6. Timeline - 10th March
 
-| Sl No. | Topic                                                                               | Program                                            |
+| Sl No. | Question                                                                            | Program                                            |
 | ------ | ----------------------------------------------------------------------------------- | -------------------------------------------------- |
 | 1      | WAP to find the difference of two price entered                                     | [money_sub.c](./Mar10/money_sub.c)                 |
 | 2      | WAP to find the roots of the quadratic equation                                     | [quadratic.c](./Mar10/quadratic.c)                 |
@@ -71,7 +71,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 7. Timeline - 15th Mar
 
-| Sl No. | Topic                                   | Program                            |
+| Sl No. | Question                                | Program                            |
 | ------ | --------------------------------------- | ---------------------------------- |
 | 1      | WAP to use Prefix and Postfix Operators | [post_pre.c](./Mar15/post_pre.c)   |
 | 2      | WAP to test assignment operators        | [shorthand.c](./Mar15/shorthand.c) |
@@ -80,7 +80,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 8. Timeline - 17th Mar
 
-| Sl No. | Topic                                                                        | Program                                    |
+| Sl No. | Question                                                                     | Program                                    |
 | ------ | ---------------------------------------------------------------------------- | ------------------------------------------ |
 | 1      | WAP to demonstrate the associativity of operators                            | [associativity.c](./Mar17/associativity.c) |
 | 2      | WAP to demonstrate the use of type conversion                                | [type_conv.c](./Mar17/type_conv.c)         |
@@ -93,7 +93,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 9. Timeline - 22nd Mar
 
-| Sl No. | Topic                                                                                                                                                                                                               | Program                                        |
+| Sl No. | Question                                                                                                                                                                                                            | Program                                        |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | 1.     | WAP to read an alphabet from the user and convert it into upppercase if the entered alphabet is in lowercase; otherwise disply an appropriate message                                                               | [upper2lower.c](./Mar22/upper2lower.c)         |
 | 2.     | WAP to check if the entered alphabet is vowel or consonant                                                                                                                                                          | [ckh_voweloconso.c](./Mar22/chk_voweloconso.c) |
@@ -103,7 +103,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 10. Timeline - 24th Mar
 
-| Sl No. | Topic                                                           | Program                              |
+| Sl No. | Question                                                        | Program                              |
 | ------ | --------------------------------------------------------------- | ------------------------------------ |
 | 1.     | WAP using switch case to create KIIT grade system               | [KIIT_grade.c](./Mar24/KIIT_grade.c) |
 | 2.     | WAP using while to print numbers 1 to 5                         | [1to5.c](./Mar24/1to5.c)             |
@@ -115,7 +115,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 11. Timeline - 29th Mar
 
-| Sl No. | Topic                                                 | Program                            |
+| Sl No. | Question                                              | Program                            |
 | ------ | ----------------------------------------------------- | ---------------------------------- |
 | 1.     | WAP to print numbers from 1 to 10 using for loop      | [1to10.c](./Mar29/1to10.c)         |
 | 2.     | WAP to find the sum of digits for an entered number   | [sumOdigit.c](./Mar29/sumOdigit.c) |
@@ -128,7 +128,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 12. Timeline - 31st Mar
 
-| Sl No. | Topic                                             | Program                            |
+| Sl No. | Question                                          | Program                            |
 | ------ | ------------------------------------------------- | ---------------------------------- |
 | 1.     | WAP to show the use of `GOTO` keyword             | [goto.c](./Mar31/goto.c)           |
 | 2.     | WAP to show the use of `break` statement          | [break.c](./Mar31/break.c)         |
@@ -147,13 +147,13 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 13. Timeline - 12th Apr
 
-| Sl No. | Topic                            | Program                            |
+| Sl No. | Question                         | Program                            |
 | ------ | -------------------------------- | ---------------------------------- |
 | 1.     | ![image](./images/pattern11.png) | [pattern11.c](./Apr12/pattern11.c) |
 
 ## 14. Timeline - 19 Apr
 
-| Sl No. | Topic                                 | Program                        |
+| Sl No. | Question                              | Program                        |
 | ------ | ------------------------------------- | ------------------------------ |
 | 1.     | WAP to convert hexadecimal to decimal | [hex2dec.c](./Apr19/hex2dec.c) |
 | 2.     | WAP to convert hexadecimal to binary  | [hex2bin.c](./Apr19/hex2bin.c) |
@@ -161,7 +161,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 15. Timeline - 21 Apr
 
-| Sl No. | Topic                                                                      | Program                                |
+| Sl No. | Question                                                                   | Program                                |
 | ------ | -------------------------------------------------------------------------- | -------------------------------------- |
 | 1.     | WAP to input a floating point number and check it with 4.6                 | [float_chk.c](./Apr21/float_chk.c)     |
 | 2.     | WAP to print values stored in an array                                     | [array_print.c](./Apr21/array_print.c) |
@@ -171,7 +171,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 16. Timeline - 26 Apr
 
-| Sl No. | Topic                                                                                            | Program                                              |
+| Sl No. | Question                                                                                         | Program                                              |
 | ------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
 | 1.     | WAP to print the number entered by the user in reverse order                                     | [reverse_num_print.c](./Apr26/reverse_num_print.c)   |
 | 2.     | WAP to print all odd numbers from an array                                                       | [odd_array.c](./Apr26/odd_array.c)                   |
@@ -185,7 +185,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 17. Timeline - 28 Apr
 
-| Sl No. | Topic                                                        | Program                                      |
+| Sl No. | Question                                                     | Program                                      |
 | ------ | ------------------------------------------------------------ | -------------------------------------------- |
 | 1.     | WAP to take input and display a 2D array                     | [2DA.c](./Apr28/2DA.c)                       |
 | 2.     | WAP to perform addition of all elements present inside a 2DA | [2DA_add.c](./Apr28/2DA_add.c)               |
@@ -200,7 +200,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 18. Timeline - 03 May
 
-| Sl No. | Topic                                                                                                                                                                               | Program                                        |
+| Sl No. | Question                                                                                                                                                                            | Program                                        |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | 1.     | WAP to input a number and display its nearest higher prime number                                                                                                                   | [near_high_prime.c](./May03/near_high_prime.c) |
 | 2.     | WAP to find the determinant of matrix                                                                                                                                               | [determinant.c](./May03/determinant.c)         |
@@ -208,7 +208,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 19. Timeline - 05 May
 
-| Sl No. | Topic                                                                                                                                         | Program                                          |
+| Sl No. | Question                                                                                                                                      | Program                                          |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | 1.     | WAP to initialize a square matrix of users choice with random number then rotate the side elements clockwise and anticlockwise on user choice | [CW_ACW_array.c](./May05/CW_ACW_array.c)         |
 | 2.     | WAP to populate an array with some random numbers and arrange even elements and odd elements separately (Odd : beginning, Even : end)         | [arrange_odd_even.c](./May05/arrange_odd_even.c) |
@@ -216,7 +216,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 20. Timeline - 10 May
 
-| Sl No. | Topic                                                     | Program                          |
+| Sl No. | Question                                                  | Program                          |
 | ------ | --------------------------------------------------------- | -------------------------------- |
 | 1.     | WAP to search an element within an array                  | [search.c](./May10/search.c)     |
 | 2.     | WAP to take a string array and print it                   | [string.c](./May10/string.c)     |
@@ -228,7 +228,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## 21. Timeline - 12 May
 
-| Sl No | Topic                                                                                                 | Program                                  |
+| Sl No | Question                                                                                              | Program                                  |
 | ----- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 1.    | WAP to enter a string an count the number of words                                                    | [count_words.c](./May12/count_words.c)   |
 | 2.    | WAP to input a string and check whether it is palindrome or not                                       | [palindrome.c](./May12/palindrome.c)     |
@@ -239,7 +239,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 # Test - 17 May
 
-| Sl No. | Topic                                                                            | Program                        |
+| Sl No. | Question                                                                         | Program                        |
 | ------ | -------------------------------------------------------------------------------- | ------------------------------ |
 | 1.     | WAP to populate an array with random numbers and display alternate prime numbers | [set_1.c](./May17-test/set1.c) |
 | 2.     | WAP to display nth term of fibonacci series                                      | [set_2.c](./May17-test/set2.c) |
@@ -250,7 +250,7 @@ You can submit a pull request if you find information missing or incorrect.
 
 ## Phase 1
 
-| Sl No. | Topic                                                                                     | Program                            |
+| Sl No. | Question                                                                                  | Program                            |
 | ------ | ----------------------------------------------------------------------------------------- | ---------------------------------- |
 | 1.     | WAP to find maximum of two numbers using Functions.                                       | [max_2.c](./May17/max_2.c)         |
 | 2.     | WAP to find factorial of a number using Functions.                                        | [factorial.c](./May17/factorial.c) |
@@ -267,7 +267,7 @@ HINT: A number is Fibonacci if and only if one or both of `(5*n^2 + 4)` or `(5*n
 
 ## Phase 2
 
-| Sl No. | Topic                                              | Program                                                |
+| Sl No. | Question                                           | Program                                                |
 | ------ | -------------------------------------------------- | ------------------------------------------------------ |
 | 1.     | Sum of natural numbers using recursion.            | [sum_recursion.c](./May17/sum_recursion.c)             |
 | 2.     | Factorial of a number using recursion.             | [factorial_recursion.c](./May17/factorial_recursion.c) |
@@ -278,7 +278,7 @@ HINT: A number is Fibonacci if and only if one or both of `(5*n^2 + 4)` or `(5*n
 
 # 23. Timeline - 19 May
 
-| Sl No. | Topic                                                       | Program                                              |
+| Sl No. | Question                                                    | Program                                              |
 | ------ | ----------------------------------------------------------- | ---------------------------------------------------- |
 | 1.     | WAP to show the use of pointers on intergers                | [pointer.c](./May19/pointer.c)                       |
 | 2.     | WAP to show the use of pointers on integer array            | [pointer_array.c](./May19/pointer_array.c)           |
@@ -290,3 +290,9 @@ HINT: A number is Fibonacci if and only if one or both of `(5*n^2 + 4)` or `(5*n
 | 8.     | WAP to print the sum of natural numbers using pointer array | [pointer_sumNatural.c](./May19/pointer_sumNatural.c) |
 | 9.     | WAP to show the use of two level pointers                   | [pointer_double.c](./May19/pointer_double.c)         |
 | 10.    | WAP to show the use of three level pointers                 | [pointer_triple.c](./May19/pointer_triple.c)         |
+
+# 24. Timeline - 24th May
+
+| Sl No. | Question        | Program                                        |
+| ------ | --------------- | ---------------------------------------------- |
+| 1.     | Stoopid Pattern | [stoopid_pattern.c](./May24/stoopid_pattern.c) |
