@@ -237,15 +237,6 @@ You can submit a pull request if you find information missing or incorrect.
 | 5.    | WAP to input a name and display in short form. Ex. John Doe -> J. Doe                                 | [short_name.c](./May12/short_name.c)     |
 | 6.    | WAP to input a string and reverse each word in its place                                              | [reverse_word.c](./May12/reverse_word.c) |
 
-# Test - 17 May
-
-| Sl No. | Question                                                                         | Program                        |
-| ------ | -------------------------------------------------------------------------------- | ------------------------------ |
-| 1.     | WAP to populate an array with random numbers and display alternate prime numbers | [set_1.c](./May17-test/set1.c) |
-| 2.     | WAP to display nth term of fibonacci series                                      | [set_2.c](./May17-test/set2.c) |
-| 3.     | WAP to input two numbers and find factorial of their difference                  | [set_3.c](./May17-test/set3.c) |
-| 4.     | WAP to check if a number is armstrong number                                     | [set_4.c](./May17-test/set4.c) |
-
 # 22. Timeline - 17 May
 
 ## Phase 1
@@ -296,3 +287,14 @@ HINT: A number is Fibonacci if and only if one or both of `(5*n^2 + 4)` or `(5*n
 | Sl No. | Question        | Program                                        |
 | ------ | --------------- | ---------------------------------------------- |
 | 1.     | Stoopid Pattern | [stoopid_pattern.c](./May24/stoopid_pattern.c) |
+
+# 25. Timeline - 26th May
+
+| Sl No. | Question                                                                                                                                                               | Program                                  |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1.     | WAP to store one student’s information (i.e. student’s roll no, name, gender, marks etc) of an educational institute and display all the data, using structure.        | [uno_stuinfo.c](./May26/uno_stuinfo.c)   |
+| 2.     | WAP to store n student’s information (i.e. student’s roll no, name, gender, marks etc) of an educational institute and display all the data, using array of structure. | [n_stuinfo.c](./May26/n_stuinfo.c)       |
+| 3.     | WAP to add two distances (in inch-feet) using structures.                                                                                                              | [add_distance.c](./May26/add_distance.c) |
+| 4.     | WAP to add two complex numbers by passing structure to a function.                                                                                                     | [add_complex.c](./May26/add_complex.c)   |
+| 5.     | WAP to store n books data such as title, author, publication, price etc using structures. Display all the books information of a particular author.                    | [books_author.c](./May26/books_author.c) |
+| 6.     | WAP to read item details used in party and calculate all expenses, divide expenses in all friends equally.                                                             | [la_fiesta.c](./May26/la_fiesta.c)       |
